@@ -71,15 +71,21 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br /><br />
 
 <p>10. We can then make any other configurations as appropriate.</p>
-- Creating a "Super Admin" role:
-<img src="https://github.com/user-attachments/assets/53dec451-25d6-4094-83d6-ae0865360a4d" alt="Super Admin Role" />
-- Creating a "System Administrators" Department:
-<img src="https://github.com/user-attachments/assets/005d0884-5df1-4f37-b8f7-7b9b6a162e17" alt="System Administrators Department" />
-- Creating a "Level II Support" team:
-<img src="https://github.com/user-attachments/assets/a0f299d2-445e-4d35-bf2f-ed6a9b20a5c2" alt="Level II Support Team" />
-- Creating additional users in osTicket:
-<img src="https://github.com/user-attachments/assets/82d360e2-98e2-4414-ba93-c92520db9892" alt="Creating Users" />
-- Creating custom Service Level Agreement options:
-<img src="https://github.com/user-attachments/assets/50baa259-e63b-47cc-a8f3-9bd2f7f4030d" alt="Creating SLAs" />
-- Creating a new Help Topic:
-<img src="https://github.com/user-attachments/assets/f565bd61-b863-4d9c-82ac-6ec249f17f68" alt="Adding Help Topic" />
+- Creating a "Super Admin" role:<br />
+<img src="https://github.com/user-attachments/assets/53dec451-25d6-4094-83d6-ae0865360a4d" alt="Super Admin Role" /><br />
+- Creating a "System Administrators" Department:<br />
+<img src="https://github.com/user-attachments/assets/005d0884-5df1-4f37-b8f7-7b9b6a162e17" alt="System Administrators Department" /><br />
+- Creating a "Level II Support" team:<br />
+<img src="https://github.com/user-attachments/assets/a0f299d2-445e-4d35-bf2f-ed6a9b20a5c2" alt="Level II Support Team" /><br />
+- Creating additional users in osTicket:<br />
+<img src="https://github.com/user-attachments/assets/82d360e2-98e2-4414-ba93-c92520db9892" alt="Creating Users" /><br />
+- Creating custom Service Level Agreement options:<br />
+<img src="https://github.com/user-attachments/assets/50baa259-e63b-47cc-a8f3-9bd2f7f4030d" alt="Creating SLAs" /><br />
+- Creating a new Help Topic:<br />
+<img src="https://github.com/user-attachments/assets/f565bd61-b863-4d9c-82ac-6ec249f17f68" alt="Adding Help Topic" /><br />
+
+<br /><br />
+
+<p>** We will continue into the next section: [osTicket: Ticket Lifecycle Examples](https://github.com/realflchang/ticket-lifecycle).</p>
+
+
